@@ -3290,7 +3290,10 @@ progress.amplitude-song-played-progress {
 /* ==========================================================================
    SINGLE ARTIST 
 =========================================================================== */
-
+.artist-info{
+    position: relative;
+    z-index: 2;
+}
 .single-artist-hero{
     height: 100vh;
     position: relative;
